@@ -1,2 +1,2 @@
-# NumericalAnalysisExpr
-Codes of numerical analysis' experiments
+# Numerical Analysis - 2019 Spring
+Codes & reports of numerical analysis' experiments
